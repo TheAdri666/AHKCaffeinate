@@ -1,6 +1,6 @@
 # AHKCaffeinate
 
-AHKCaffeinate is an AutoHotKey script that simulates a keystroke (F16) every minute to prevent your computer from going idle. This can help keep your screen on or make you appear active on applications like Microsoft Teams. It’s a lightweight solution for ensuring that your computer stays awake without manually adjusting power settings.
+Caffeinate.ahk is an AutoHotKey script that simulates a keystroke (F16) every minute to prevent your computer from going idle. This can help keep your screen on or make you appear active on applications like Microsoft Teams. It’s a lightweight solution for ensuring that your computer stays awake without manually adjusting power settings.
 
 ## Features
 
