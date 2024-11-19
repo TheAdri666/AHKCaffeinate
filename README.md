@@ -21,7 +21,7 @@ Caffeinate.ahk is an AutoHotKey script that simulates a keystroke (F16) every mi
   2. Run the Script: Double-click on the AHKCaffeinate.ahk file to run it. An AutoHotkey icon should appear in your system tray, indicating that the script is active.
 
   3. Optional - Auto Start: To make the script run automatically at startup: Press `Win + R`, type `shell:startup`, and press Enter.
-  Copy AHKCaffeinate.ahk into this folder.
+  Copy Caffeinate.ahk into this folder.
 
 ## Usage
 
